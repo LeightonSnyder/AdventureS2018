@@ -1,0 +1,39 @@
+body {
+    background-color: aliceblue;
+    font-family: futura, helvetica, sans-serif;
+    text-align: center;
+    margin-left: 200;
+    margin-right: 200;
+    margin-top: 125;
+    margin-bottom: 125;
+}
+
+h1 {
+    color: crimson;
+    font-size: 72px;
+    margin-top: 70;
+    margin-bottom: 40;
+}
+
+h2 {
+    max-width: 575;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30;
+    line-height: 1.5;
+}
+
+h3 {
+    margin-top: 60;
+    margin-bottom: 70;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
